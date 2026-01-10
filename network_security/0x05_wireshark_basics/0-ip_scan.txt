@@ -1,1 +1,1 @@
-icmp.proto == 1
+ip.proto == 1
